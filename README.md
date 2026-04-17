@@ -7,7 +7,7 @@ My work focuses on applying GIS to real-world problems through data-driven analy
 
 I am currently expanding my portfolio with projects in infrastructure, urban systems, and spatial decision-making.
 
-##Featured Projects
+## Featured Projects
   Power Grid Vulnerability Analysis (In Progress)
 
 Analyzing potential outage risk by combining vegetation proximity, storm exposure, and population density to identify high-priority maintenance zones.
