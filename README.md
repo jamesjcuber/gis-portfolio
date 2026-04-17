@@ -13,3 +13,23 @@ I am currently expanding my portfolio with projects in infrastructure, urban sys
 Analyzing potential outage risk by combining vegetation proximity, storm exposure, and population density to identify high-priority maintenance zones.
 
 → View Project (coming soon)
+
+### wip
+
+wip
+
+→ View Project (coming soon)
+
+### wip
+
+wip
+
+→ View Project (coming soon)
+
+## Skill & Tools
+
+### GIS and Spatial Analysis
+* Spatial analysis (buffering, overlays, suitability modeling)
+* Raster analysis (heat mapping, zonal statistics)
+* Vector data processing and spatial joins
+
