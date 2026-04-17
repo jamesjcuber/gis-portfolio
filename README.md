@@ -33,3 +33,24 @@ wip
 * Raster analysis (heat mapping, zonal statistics)
 * Vector data processing and spatial joins
 
+### Tools and Technologies
+* QGIS and ArcGIS Pro
+* ENVI (remote sensing and raster analysis)
+* Python (GeoPandas, Pandas)
+* Jupyter Notebook (for geospatial analysis workflows)
+* Experience working with common geospatial data formats (e.g., GeoJSON)
+
+### Mapping and Visualization
+* Map design for data-driven insights
+* Route visualization and network-based outputs
+* Web map integration (Mapbox, Leaflet)
+
+## Project Focus
+My work emphasizes:
+* Applying GIS to real-world problems
+* Spatial analysis to support decision-making
+* Infrastructure and urban systems
+* Delivering clear, data-driven insights through mapping and visualization
+
+## Contact
+[LinkedIn](https://www.linkedin.com/in/james-cuber-96982120a/)
