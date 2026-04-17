@@ -57,4 +57,4 @@ My work emphasizes:
 
 [GitHub](https://github.com/jamesjcuber?tab=overview&from=2026-03-01&to=2026-03-31)
 
-Email: jcuber6@gmail.com
+jcuber6@gmail.com
