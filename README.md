@@ -54,3 +54,5 @@ My work emphasizes:
 
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/james-cuber-96982120a/)
+[GitHub](https://github.com/jamesjcuber?tab=overview&from=2026-03-01&to=2026-03-31)
+Email: jcuber6@gmail.com
